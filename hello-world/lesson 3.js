@@ -10,7 +10,7 @@
         const c = 'cat';
         // write your code below
 
-        main
+        main footer
 
         const resultString = a + c + b;
         console.log(resultString);
